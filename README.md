@@ -10,6 +10,7 @@ Note: WilliamChart v3 has been completely re-written from scratch in Kotlin and 
 
 ![screenshot][4]
 
+![screenshot][https://www.runoob.com/wp-content/uploads/2015/06/1423464450_9931.gif-thumb.jpg]
 ### Gradle 
 
 ``` groovy
